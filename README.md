@@ -1,9 +1,11 @@
 # KoiraApp :dog2:
+
 * Preventive care for mental health consists of dog therapy managed through the mobile app
 * The app connects people with pets from the dog shelters
 * People spend time with the dogs to feel better
 * An App helps people choose the best pet type
 * At the end of the service, the user fills survey, the data analyses insights of dog therapy
+* [YouTube Description](https://www.youtube.com/watch?v=HewleJnF92g&t=1s)
 
 ## Technical Key Features
 * Runs on iPhone 8 and later
